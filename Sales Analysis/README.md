@@ -10,7 +10,7 @@ This project explores sales data using **Pandas** to uncover key business insigh
 - **Weekday vs. Weekend Sales** – Spotting buying trends.  
 
 ## Tools Used  
-- **Python, Pandas, Matplotlib, Seaborn** for data analysis and visualization.  
+- **Python, Pandas, Seaborn** for data analysis and visualization.  
 
 ## Why This Matters  
 These insights can help businesses **optimize stock, improve marketing, and plan better strategies.**  
