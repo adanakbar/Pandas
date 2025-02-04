@@ -15,4 +15,4 @@ This project explores sales data using **Pandas** to uncover key business insigh
 ## Why This Matters  
 These insights can help businesses **optimize stock, improve marketing, and plan better strategies.**  
 
-📂 Open `Sales_Analysis_EDA.ipynb` to check out the findings! 🚀
+📂 Open `Sales_Analysis_EDA.ipynb` to check out the findings! 
